@@ -1,7 +1,5 @@
-N|Y|${HOME}|.zshrc .p10k.zsh|zsh oh-my-zsh-git zsh-theme-powerlevel10k pokemon-colorscripts-git
-N|Y|${HOME}/.config/Code/User|settings.json|visual-studio-code-bin
+N|Y|${HOME}|.zshrc .p10k.zsh|zsh oh-my-zsh-git zsh-theme-powerlevel10k
 N|Y|${HOME}/.config/Code - OSS/User|settings.json|code
-N|Y|${HOME}/.config|code-flags.conf|visual-studio-code-bin
 N|Y|${HOME}/.config|code-flags.conf|code
 N|Y|${HOME}/.config|spotify-flags.conf|spotify
 Y|Y|${HOME}/.config|dunst|dunst
@@ -14,7 +12,6 @@ Y|Y|${HOME}/.local/share|bin|hyprland
 Y|Y|${HOME}/.config|kitty|kitty
 Y|Y|${HOME}/.config|Kvantum|kvantum
 Y|Y|${HOME}/.config|lsd|lsd
-Y|Y|${HOME}/.config|MangoHud|mangohud
 Y|Y|${HOME}/.config|fastfetch|fastfetch
 Y|Y|${HOME}/.config|qt5ct|qt5ct
 Y|Y|${HOME}/.config|qt6ct|qt6ct
